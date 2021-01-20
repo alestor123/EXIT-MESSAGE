@@ -16,5 +16,7 @@
     "url": "https://github.com/alestor123/EXIT-MESSAGE/issues"
   },
   "homepage": "https://github.com/alestor123/EXIT-MESSAGE#readme",
-  "dependencies": {}
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
