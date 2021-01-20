@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/alestor123/EXIT-MESSAGE/issues"
   },
-  "homepage": "https://github.com/alestor123/EXIT-MESSAGE#readme"
+  "homepage": "https://github.com/alestor123/EXIT-MESSAGE#readme",
+  "dependencies": {}
 }
